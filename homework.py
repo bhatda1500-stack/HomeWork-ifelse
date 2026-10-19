@@ -52,3 +52,11 @@ elif i== int("12"):
 else:
     print("error")
 
+print("Hello World")
+
+i = 12 
+if i>=10:
+    print("great")
+else:
+    print("not great")
+    
